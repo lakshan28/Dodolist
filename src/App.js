@@ -26,6 +26,12 @@ class App extends Component {
         title: 'Namo Buddaya!',
         completed: false
       },
+	
+	{
+        id: 1,
+        title: 'Namo Buddaya!',
+        completed: true
+      },
     ]
   }
 
